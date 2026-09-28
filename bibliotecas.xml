@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliotecas>
+
+    <!-- BIBLIOTECA DE SEVILLA -->
+    <biblioteca ciudad="Sevilla">
+        <nombre>Biblioteca Pública del Estado - Sevilla</nombre>
+        <libros>
+            <libro isbn="978-84-415-3840-5">
+                <titulo>Aprende JavaScript en un fin de semana</titulo>
+                <autor>Alfredo Moreno Muñoz</autor>
+                <anio>2021</anio>
+                <editorial>Marcombo</editorial>
+            </libro>
+            <libro isbn="978-84-267-2856-2">
+                <titulo>Sistemas Operativos en Red</titulo>
+                <autor>María Jesús Ramos</autor>
+                <anio>2020</anio>
+                <editorial>Garceta</editorial>
+            </libro>
+        </libros>
+    </biblioteca>
+
+    <!-- BIBLIOTECA DE MÁLAGA -->
+    <biblioteca ciudad="Málaga">
+        <nombre>Biblioteca Provincial de Málaga</nombre>
+        <libros>
+            <libro isbn="978-84-996-4889-7">
+                <titulo>Bases de Datos Relacionales y NoSQL</titulo>
+                <autor>Carlos Gómez</autor>
+                <anio>2019</anio>
+                <editorial>RA-MA</editorial>
+            </libro>
+            <libro isbn="978-84-415-4123-8">
+                <titulo>Python para Principiantes</titulo>
+                <autor>Laura Fernández</autor>
+                <anio>2022</anio>
+                <editorial>Anaya Multimedia</editorial>
+            </libro>
+        </libros>
+    </biblioteca>
+
+    <!-- BIBLIOTECA DE GRANADA -->
+    <biblioteca ciudad="Granada">
+        <nombre>Biblioteca de Andalucía - Granada</nombre>
+        <libros>
+            <libro isbn="978-84-136-6012-3">
+                <titulo>Redes de Computadores</titulo>
+                <autor>Andrew S. Tanenbaum</autor>
+                <anio>2018</anio>
+                <editorial>Pearson</editorial>
+            </libro>
+            <libro isbn="978-84-267-3100-5">
+                <titulo>Desarrollo Web con HTML, CSS y JS</titulo>
+                <autor>David López</autor>
+                <anio>2023</anio>
+                <editorial>Marcombo</editorial>
+            </libro>
+        </libros>
+    </biblioteca>
+
+</bibliotecas>
